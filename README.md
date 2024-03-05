@@ -1,3 +1,6 @@
+# Nightly source direct from the Citra nightly release tag. 
+### Obtained via the Internet Archive via https://web.archive.org/web/20240304192840/https://codeload.github.com/citra-emu/citra-nightly/zip/refs/tags/nightly-2104
+
 <h1 align="center">
   <br>
   <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
